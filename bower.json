@@ -1,6 +1,6 @@
 {
   "name": "angular-bootstrap-directives",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "homepage": "https://github.com/erykpiast/angular-bootstrap-directives",
   "authors": [
     "Eryk Napierała <eryk.piast@gmail.com>"
@@ -21,13 +21,13 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.2",
+    "angular": "^1.2",
     "bootstrap": "~3.1",
-    "angular-animate": "~1.2.25"
+    "angular-animate": "^1.2.25"
   },
   "devDependencies": {
     "requirejs": "~2.1",
-    "angular-mocks": "~1.2",
+    "angular-mocks": "^1.2",
     "jquery": "~2.1"
   }
 }
